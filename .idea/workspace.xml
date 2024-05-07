@@ -8,9 +8,8 @@
       <change afterPath="$PROJECT_DIR$/Development/com/main_classes/TeacherGui.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UsableCommonMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Development/TeacherGui.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Development/com/main_classes/EntryGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/main_classes/EntryGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Development/com/main_classes/EntryGui.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/main_classes/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/main_classes/Lecturer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/main_classes/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/main_classes/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/main_classes/Tutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/main_classes/Tutor.java" afterDir="false" />
@@ -23,16 +22,17 @@
       <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseLabel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UsePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UsePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseTextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/TeacherGui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/TeacherGui.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/EntryGui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/Lecturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/Lecturer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/Tutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/Tutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForDisplay.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForGradeScore$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForGradeScore$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForGradeScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForGradeScore.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/Image/blog page.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UsableCommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UsableCommonMethods.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseButton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseLabel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseLabel.class" afterDir="false" />
@@ -62,29 +62,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EntryGui.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrameForDisplay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrameForGradeScore.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrameForLecturer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrameForTutor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyWindow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TeacherGui.executor&quot;: &quot;Run&quot;,
-    &quot;Application.newJhyau.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dell/IdeaProjects/Details_java - Copy/23048832 Manoj Neupane&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.EntryGui.executor": "Run",
+    "Application.FrameForDisplay.executor": "Run",
+    "Application.FrameForGradeScore.executor": "Run",
+    "Application.FrameForLecturer.executor": "Run",
+    "Application.FrameForTutor.executor": "Run",
+    "Application.MyWindow.executor": "Run",
+    "Application.TeacherGui.executor": "Run",
+    "Application.newJhyau.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dell/IdeaProjects/Details_java - Copy/23048832 Manoj Neupane/Development/com/utilities_for_coursework",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\Details_java - Copy\23048832 Manoj Neupane\Development\com\utilities_for_coursework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\Details_java - Copy\23048832 Manoj Neupane\Development\com\utilities_for_coursework\Image" />
+      <recent name="C:\Users\dell\IdeaProjects\Details_java - Copy\23048832 Manoj Neupane\Development\com\main_classes" />
+      <recent name="C:\Users\dell\IdeaProjects\Details_java - Copy\23048832 Manoj Neupane\Development\com\utilities_for_coursework" />
       <recent name="D:\1sem_courses_files\courseworks\secondSemester\Details_java\23048832 Manoj Neupane\Development\com" />
     </key>
   </component>
