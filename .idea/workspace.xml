@@ -7,11 +7,7 @@
     <list default="true" id="1d950ec0-1f19-4945-bfe9-b53f2af20a51" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Development/com/main_classes/TeacherGui.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UsableCommonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Development/com" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/main_classes/EntryGui.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/main_classes/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/main_classes/Lecturer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/main_classes/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/main_classes/Teacher.java" afterDir="false" />
@@ -25,18 +21,6 @@
       <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseLabel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UsePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UsePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/Development/com/utilities_for_coursework/UseTextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled Diagram.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/TeacherGui.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/Tutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/main_classes/Tutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForLecturer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/FrameForTutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseLabel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseLabel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UsePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UsePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseTextField.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/23048832 Manoj Neupane/com/utilities_for_coursework/UseTextField.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
